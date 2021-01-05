@@ -17,4 +17,14 @@ In this course, we will explore the social and ethical ramifications of the choi
 + Face-to-face Lectures: Wednesday 15:00h-16:00h
 + Location: Online during COVID-19 pandemic
 
+## Prerequisites
++ Proficiency in Python (3.7).
++ Calculus, Linear Algebra: You should be comfortable taking derivatives and understanding matrix vector operations and notation.
++ Basic Probability and Statistics.
+
+## Grading
+Assignment #1: 30%. 
+Assignment #2: 30%. 
+Assignment #3: 40%. 
+
 ### Syllabus
