@@ -8,11 +8,11 @@ Data science has the potential to be both beneficial and detrimental to individu
 
 In this course, we will explore the social and ethical ramifications of the choices we make at the different stages of the data analysis pipeline, from data collection and storage to understand feedback loops in the analysis. Through case studies, and exercises, students will learn the basics of ethical thinking, understand some tools to check or mitigate undesired effects, and study the distinct challenges associated with ethics in modern data science.
 
-### Course Instructor
+## Course Instructor
 
 [Jordi Vitrià](http://www.ub.edu/cvub/jordivitria/), Departament de Matemàtiques i Informàtica de la UB.
 
-### Class Time and Location
+## Class Time and Location
 + Second Semester (February, 2021 - May, 2021)
 + Face-to-face Lectures: Wednesday 15:00h-16:00h
 + Location: Online during COVID-19 pandemic
@@ -23,8 +23,16 @@ In this course, we will explore the social and ethical ramifications of the choi
 + Basic Probability and Statistics.
 
 ## Grading
-Assignment #1: 30%. 
-Assignment #2: 30%. 
-Assignment #3: 40%. 
++ Assignment #1: Twitter threat (30%). 
++ Assignment #2: Practical Exercise (30%). 
++ Assignment #3: Project (40%). For your project, you have to write a short essay about a topic of interest that will be added to the course website. 
 
-### Syllabus
+## Syllabus
++ Ethical Foundations | Slides
++ Bias and Fairness | Slides
++ Transparency and Explainability | Slides
++ Disinformation | Slides
++  | Slides
++  | Slides
++  | Slides
++ 
