@@ -11,6 +11,7 @@ In this course, we will explore the social and ethical ramifications of the choi
 ## Course Instructor
 
 [Jordi Vitrià](http://www.ub.edu/cvub/jordivitria/), Departament de Matemàtiques i Informàtica de la UB.
+[Itziar de Lecuona](http://www.bioeticayderecho.ub.edu/ca/itziar-de-lecuona), Bioethics and Law Observatory at the University of Barcelona. 
 
 ## Class Time and Location
 + Second Semester (February, 2021 - May, 2021)
@@ -35,4 +36,6 @@ In this course, we will explore the social and ethical ramifications of the choi
 +  | Slides
 +  | Slides
 +  | Slides
-+ 
++ Ethics and data protection in a data driven society
++ Data governance 
++ Data protection impact assessment methodologies: data cycle and risk assessment 
