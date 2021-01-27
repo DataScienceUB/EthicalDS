@@ -39,3 +39,4 @@ In this course, we will explore the social and ethical ramifications of the choi
 + Ethics and data protection in a data driven society
 + Data governance 
 + Data protection impact assessment methodologies: data cycle and risk assessment 
++ End
