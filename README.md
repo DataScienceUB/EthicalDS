@@ -39,14 +39,14 @@ Resources:
 
 
 ## Syllabus
-+ ** Session 1:** Ethical Foundations | Slides | Read: | Watch: | Listen: 
-+ ** Sessions 2 & 3:** Bias and Fairness | Slides | Read: | Watch: | Listen: 
-+ ** Session 4:** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
-+ ** Session 5:** Disinformation | Slides | Read: | Watch: | Listen: 
-+ ** Session 6:** | Slides | Read: | Watch: | Listen: 
-+ ** Session 1:** | Slides | Read: | Watch: | Listen: 
-+ ** Session 1:** | Slides | Read: | Watch: | Listen: 
-+ ** Session 1:** Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
-+ ** Session 1:** Data governance | Slides | Read: | Watch: | Listen: 
-+ ** Session 1:** Data protection impact assessment methodologies: data cycle and risk assessment | Slides | Read: | Watch: | Listen: 
-+ ** Session 1:** Closing session.
++ **Session 1:** Ethical Foundations | Slides | Read: | Watch: | Listen: 
++ **Sessions 2 & 3:** Bias and Fairness | Slides | Read: | Watch: | Listen: 
++ **Session 4:** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
++ **Session 5:** Disinformation | Slides | Read: | Watch: | Listen: 
++ **Session 6:** | Slides | Read: | Watch: | Listen: 
++ **Session 1:** | Slides | Read: | Watch: | Listen: 
++ **Session 1:** | Slides | Read: | Watch: | Listen: 
++ **Session 1:** Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
++ **Session 1:** Data governance | Slides | Read: | Watch: | Listen: 
++ **Session 1:** Data protection impact assessment methodologies: data cycle and risk assessment | Slides | Read: | Watch: | Listen: 
++ **Session 1:** Closing session.
