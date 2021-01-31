@@ -8,10 +8,10 @@ Data science has the potential to be both beneficial and detrimental to individu
 
 In this course, we will explore the social and ethical ramifications of the choices we make at the different stages of the data analysis pipeline, from data collection and storage to understand feedback loops in the analysis. Through case studies, and exercises, students will learn the basics of ethical thinking, understand some tools to check or mitigate undesired effects, and study the distinct challenges associated with ethics in modern data science.
 
-## Course Instructor
+## Course Instructors
 
-[Jordi Vitrià](http://www.ub.edu/cvub/jordivitria/), Departament de Matemàtiques i Informàtica de la UB.
-[Itziar de Lecuona](http://www.bioeticayderecho.ub.edu/ca/itziar-de-lecuona), Bioethics and Law Observatory at the University of Barcelona. 
++ [Jordi Vitrià](http://www.ub.edu/cvub/jordivitria/), Departament de Matemàtiques i Informàtica de la UB.
++ [Itziar de Lecuona](http://www.bioeticayderecho.ub.edu/ca/itziar-de-lecuona), Bioethics and Law Observatory at the University of Barcelona. 
 
 ## Class Time and Location
 + Second Semester (February, 2021 - May, 2021)
