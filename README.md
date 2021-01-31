@@ -23,7 +23,7 @@ In this course, we will explore the social and ethical ramifications of the choi
 + Calculus, Linear Algebra: You should be comfortable taking derivatives and understanding matrix vector operations and notation.
 + Basic Probability and Statistics.
 
-## Grading
+## Assignments and Grading
 
 There will be three 1500-word essays due during the course on assigned topics and one practical exercise: 
 + 10%   Short writing assignment (500 words)
@@ -33,13 +33,17 @@ There will be three 1500-word essays due during the course on assigned topics an
 
 Writting assignments evaluation will emphasise correctness in your writing and good understanding of the course material (as well as rigour, precision, and clarity).
 
-Resources:
+#### Resources:
 + Writting assignemnts must be formatted in the Tufte Essay format: [Tufte Essay](https://www.latextemplates.com/template/tufte-essay)
 + [How to write an ethics paper in 5 easy steps.](https://essayshark.com/blog/a-good-ethics-essaytips-and-traps-of-writing/)
 
 
 ## Syllabus
-+ **Session 1:** Ethical Foundations | Slides | Read: | Watch: | Listen: 
++ **Session 1:** Ethical Foundations
+  + Slides 
+  + Read: 
+  + Watch: [Silvia Milano - Ethical problems with recommender systems](https://anchor.fm/towardsdatascience/episodes/68--Silvia-Milano---Ethical-problems-with-recommender-systems-epi24v/a-a4fdo1p)
+  + Listen: 
 + **Sessions 2 & 3:** Bias and Fairness | Slides | Read: | Watch: | Listen: 
 + **Session 4:** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
 + **Session 5:** Disinformation | Slides | Read: | Watch: | Listen: 
