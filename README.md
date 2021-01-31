@@ -24,19 +24,27 @@ In this course, we will explore the social and ethical ramifications of the choi
 + Basic Probability and Statistics.
 
 ## Grading
-+ Assignment #1: Twitter threat (30%). 
-+ Assignment #2: Practical Exercise (30%). 
-+ Assignment #3: Project (40%). For your project, you have to write a short essay about a topic of interest that will be added to the course website. 
+
+There will be three 1500-word essays due during the course on assigned topics and one practical exercise: 
++ 10%   Short writing assignment (500 words)
++ 20%   Short writing assignment (500 words)
++ 20%   Short writing assignment (500 words)
++ 50%   Practical programming exercise (Notebook)
+
+Resources:
++ Essay format in Latex: [Tufte Essay](https://www.latextemplates.com/template/tufte-essay)
++ [How to write an ethics paper in 5 easy steps.](https://essayshark.com/blog/a-good-ethics-essaytips-and-traps-of-writing/)
+
 
 ## Syllabus
-+ Ethical Foundations | Slides
-+ Bias and Fairness | Slides
-+ Transparency and Explainability | Slides
-+ Disinformation | Slides
-+  | Slides
-+  | Slides
-+  | Slides
-+ Ethics and data protection in a data driven society
-+ Data governance 
-+ Data protection impact assessment methodologies: data cycle and risk assessment 
-+ End
++ Ethical Foundations | Slides | Read: | Watch: | Listen: 
++ Bias and Fairness | Slides | Read: | Watch: | Listen: 
++ Transparency and Explainability | Slides | Read: | Watch: | Listen: 
++ Disinformation | Slides | Read: | Watch: | Listen: 
++  | Slides | Read: | Watch: | Listen: 
++  | Slides | Read: | Watch: | Listen: 
++  | Slides | Read: | Watch: | Listen: 
++ Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
++ Data governance | Slides | Read: | Watch: | Listen: 
++ Data protection impact assessment methodologies: data cycle and risk assessment | Slides | Read: | Watch: | Listen: 
++ Closing session.
