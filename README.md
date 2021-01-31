@@ -31,7 +31,7 @@ There will be three 1500-word essays due during the course on assigned topics an
 + 20%   Short writing assignment (500 words)
 + 50%   Practical programming exercise (Notebook)
 
-Writting assignments evaluation will emphasise correctness in yourwriting and good understanding of the course material (as well as rigour, precision, and clarity).
+Writting assignments evaluation will emphasise correctness in your writing and good understanding of the course material (as well as rigour, precision, and clarity).
 
 Resources:
 + Writting assignemnts must be formatted in the Tufte Essay format: [Tufte Essay](https://www.latextemplates.com/template/tufte-essay)
@@ -39,14 +39,14 @@ Resources:
 
 
 ## Syllabus
-+ Ethical Foundations | Slides | Read: | Watch: | Listen: 
-+ Bias and Fairness | Slides | Read: | Watch: | Listen: 
-+ Transparency and Explainability | Slides | Read: | Watch: | Listen: 
-+ Disinformation | Slides | Read: | Watch: | Listen: 
-+  | Slides | Read: | Watch: | Listen: 
-+  | Slides | Read: | Watch: | Listen: 
-+  | Slides | Read: | Watch: | Listen: 
-+ Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
-+ Data governance | Slides | Read: | Watch: | Listen: 
-+ Data protection impact assessment methodologies: data cycle and risk assessment | Slides | Read: | Watch: | Listen: 
-+ Closing session.
++ ** Session 1:** Ethical Foundations | Slides | Read: | Watch: | Listen: 
++ ** Sessions 2 & 3:** Bias and Fairness | Slides | Read: | Watch: | Listen: 
++ ** Session 4:** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
++ ** Session 5:** Disinformation | Slides | Read: | Watch: | Listen: 
++ ** Session 6:** | Slides | Read: | Watch: | Listen: 
++ ** Session 1:** | Slides | Read: | Watch: | Listen: 
++ ** Session 1:** | Slides | Read: | Watch: | Listen: 
++ ** Session 1:** Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
++ ** Session 1:** Data governance | Slides | Read: | Watch: | Listen: 
++ ** Session 1:** Data protection impact assessment methodologies: data cycle and risk assessment | Slides | Read: | Watch: | Listen: 
++ ** Session 1:** Closing session.
