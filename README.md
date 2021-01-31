@@ -42,8 +42,8 @@ Writting assignments evaluation will emphasise correctness in your writing and g
 + **Session 1:** Ethical Foundations
   + Slides 
   + Read: 
-  + Watch: [Silvia Milano - Ethical problems with recommender systems](https://anchor.fm/towardsdatascience/episodes/68--Silvia-Milano---Ethical-problems-with-recommender-systems-epi24v/a-a4fdo1p)
-  + Listen: 
+  + Watch: [The problem of data, John Marshall](https://youtu.be/Wc1h0Lz3Pz4)
+  + Listen: [Silvia Milano - Ethical problems with recommender systems](https://anchor.fm/towardsdatascience/episodes/68--Silvia-Milano---Ethical-problems-with-recommender-systems-epi24v/a-a4fdo1p) 
 + **Sessions 2 & 3:** Bias and Fairness | Slides | Read: | Watch: | Listen: 
 + **Session 4:** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
 + **Session 5:** Disinformation | Slides | Read: | Watch: | Listen: 
