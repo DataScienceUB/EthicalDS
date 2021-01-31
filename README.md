@@ -31,8 +31,10 @@ There will be three 1500-word essays due during the course on assigned topics an
 + 20%   Short writing assignment (500 words)
 + 50%   Practical programming exercise (Notebook)
 
+Writting assignments evaluation will emphasise correctness in yourwriting and good understanding of the course material (as well as rigour, precision, and clarity).
+
 Resources:
-+ Essay format in Latex: [Tufte Essay](https://www.latextemplates.com/template/tufte-essay)
++ Writting assignemnts must be formatted in the Tufte Essay format: [Tufte Essay](https://www.latextemplates.com/template/tufte-essay)
 + [How to write an ethics paper in 5 easy steps.](https://essayshark.com/blog/a-good-ethics-essaytips-and-traps-of-writing/)
 
 
