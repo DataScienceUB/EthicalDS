@@ -25,13 +25,14 @@ In this course, we will explore the social and ethical ramifications of the choi
 
 ## Assignments and Grading
 
-There will be three 1500-word essays due during the course on assigned topics and one practical exercise: 
-+ 10%   Short writing assignment (500 words)
-+ 20%   Short writing assignment (500 words)
-+ 20%   Short writing assignment (500 words)
-+ 50%   Practical programming exercise (Notebook)
+There will be three 1500-word essays due during the course on assigned topics and one practical exercise:
 
-Writting assignments evaluation will emphasise correctness in your writing and good understanding of the course material (as well as rigour, precision, and clarity).
+10% Short writing assignment (500 words)
+20% Short writing assignment (500 words)
+20% Short writing assignment (500 words)
+50% Practical programming exercise (Notebook)
+
+Writing assignments evaluation will emphasize correctness in your writing and a good understanding of the course material (as well as rigor, precision, and clarity).
 
 #### Resources:
 + Writting assignemnts must be formatted in the Tufte Essay format: [Tufte Essay](https://www.latextemplates.com/template/tufte-essay)
