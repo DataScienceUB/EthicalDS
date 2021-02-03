@@ -35,7 +35,7 @@ There will be three 1500-word essays due during the course on assigned topics an
 Writing assignments evaluation will emphasize correctness in your writing and a good understanding of the course material (as well as rigor, precision, and clarity).
 
 #### Resources:
-+ Writting assignemnts must be formatted in the Tufte Essay format: [Tufte Essay](https://www.latextemplates.com/template/tufte-essay)
++ Writting assignments must be formatted in the Tufte Essay format: [Tufte Essay](https://www.latextemplates.com/template/tufte-essay)
 + [How to write an ethics paper in 5 easy steps.](https://essayshark.com/blog/a-good-ethics-essaytips-and-traps-of-writing/)
 
 
@@ -48,7 +48,7 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
 + **Sessions 2 & 3:** Bias and Fairness | Slides | Read: | Watch: | Listen: 
 + **Session 4:** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
 + **Session 5:** Disinformation | Slides | Read: | Watch: | Listen: 
-+ **Session 6:** | Slides | Read: | Watch: | Listen: 
++ **Session 6:** Privacy and Surveillance | Slides | Read: | Watch: | Listen: 
 + **Session 1:** | Slides | Read: | Watch: | Listen: 
 + **Session 1:** | Slides | Read: | Watch: | Listen: 
 + **Session 1:** Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
