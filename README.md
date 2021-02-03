@@ -40,18 +40,16 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
 
 
 ## Syllabus
-+ **Session 1:** Ethical Foundations
++ **Session** Ethical Foundations
   + Slides 
   + Read: 
   + Watch: [The problem of data, John Marshall](https://youtu.be/Wc1h0Lz3Pz4)
   + Listen: [Silvia Milano - Ethical problems with recommender systems](https://anchor.fm/towardsdatascience/episodes/68--Silvia-Milano---Ethical-problems-with-recommender-systems-epi24v/a-a4fdo1p) 
-+ **Sessions 2 & 3:** Bias and Fairness | Slides | Read: | Watch: | Listen: 
-+ **Session 4:** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
-+ **Session 5:** Disinformation | Slides | Read: | Watch: | Listen: 
-+ **Session 6:** Privacy and Surveillance | Slides | Read: | Watch: | Listen: 
-+ **Session 1:** | Slides | Read: | Watch: | Listen: 
-+ **Session 1:** | Slides | Read: | Watch: | Listen: 
-+ **Session 1:** Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
-+ **Session 1:** Data governance | Slides | Read: | Watch: | Listen: 
-+ **Session 1:** Data protection impact assessment methodologies: data cycle and risk assessment | Slides | Read: | Watch: | Listen: 
-+ **Session 1:** Closing session.
++ **Sessions** Bias and Fairness | Slides | Read: | Watch: | Listen: 
++ **Session** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
++ **Session** Disinformation | Slides | Read: | Watch: | Listen: 
++ **Session** Privacy and Surveillance | Slides | Read: | Watch: | Listen: 
++ **Session** Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
++ **Session** Data governance | Slides | Read: | Watch: | Listen: 
++ **Session** Data protection impact assessment methodologies: data cycle and risk assessment | Slides | Read: | Watch: | Listen: 
++ **Session** Closing session.
