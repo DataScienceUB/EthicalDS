@@ -45,11 +45,19 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
   + Read: 
   + Watch: [The problem of data, John Marshall](https://youtu.be/Wc1h0Lz3Pz4)
   + Listen: [Silvia Milano - Ethical problems with recommender systems](https://anchor.fm/towardsdatascience/episodes/68--Silvia-Milano---Ethical-problems-with-recommender-systems-epi24v/a-a4fdo1p) 
-+ **Sessions** Bias and Fairness | Slides | Read: | Watch: | Listen: 
-+ **Session** Transparency and Explainability | Slides | Read: | Watch: | Listen: 
-+ **Session** Disinformation | Slides | Read: | Watch: | Listen: 
-+ **Session** Privacy and Surveillance | Slides | Read: | Watch: | Listen: 
-+ **Session** Ethics and data protection in a data driven society | Slides | Read: | Watch: | Listen: 
-+ **Session** Data governance | Slides | Read: | Watch: | Listen: 
-+ **Session** Data protection impact assessment methodologies: data cycle and risk assessment | Slides | Read: | Watch: | Listen: 
++ **Session** Bias and Fairness 
+  + Slides 
+  + Read: 
+  + Watch: 
+  + Listen: 
++ **Session** Transparency and Explainability 
+  + Slides 
+  + Read: 
+  + Watch: 
+  + Listen: 
++ **Session** Disinformation 
++ **Session** Privacy and Surveillance
++ **Session** Ethics and data protection in a data driven society 
++ **Session** Data governance 
++ **Session** Data protection impact assessment methodologies: data cycle and risk assessment
 + **Session** Closing session.
