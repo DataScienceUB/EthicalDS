@@ -27,10 +27,10 @@ In this course, we will explore the social and ethical ramifications of the choi
 
 There will be three 1500-word essays due during the course on assigned topics and one practical exercise:
 
-10% Short writing assignment (500 words)
-20% Short writing assignment (500 words)
-20% Short writing assignment (500 words)
-50% Practical programming exercise (Notebook)
++ 10% Short writing assignment (500 words)
++ 20% Short writing assignment (500 words)
++ 20% Short writing assignment (500 words)
++ 50% Practical programming exercises (Notebook)
 
 Writing assignments evaluation will emphasize correctness in your writing and a good understanding of the course material (as well as rigor, precision, and clarity).
 
