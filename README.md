@@ -2,6 +2,8 @@
 
 MSc in Fundamental Principles of Data Science | Universitat de Barcelona
 
+Campus Virtual UB: [Ethical Data Science](https://campusvirtual.ub.edu/course/view.php?id=28882)
+
 ## Ethical Data Science MSc Course 2020-2021
 
 Data science has the potential to be both beneficial and detrimental to individuals and/or the wider public. To help minimize any adverse effects, we must seek to understand the potential impact of our work and consider any opportunities that may deliver benefits for the public. 
