@@ -37,11 +37,11 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
 
 
 ## Syllabus
-+ Ethical Foundations
-+ Bias and Fairness 
-+ Transparency and Explainability 
-+ Disinformation 
-+ Privacy and Surveillance
++ Ethical Foundations | Slides
++ Bias and Fairness  | Slides
++ Transparency and Explainability  | Slides
++ Disinformation  | Slides
++ Privacy and Surveillance | Slides
 + Ethics and data protection in a data driven society 
 + Data governance 
 + Data protection impact assessment methodologies: data cycle and risk assessment
