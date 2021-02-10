@@ -2,7 +2,7 @@
 
 MSc in Fundamental Principles of Data Science | Universitat de Barcelona
 
-Web Site in Campus Virtual UB: [Ethical Data Science](https://campusvirtual.ub.edu/course/view.php?id=28882)
++ Web Site in Campus Virtual UB: [Ethical Data Science](https://campusvirtual.ub.edu/course/view.php?id=28882)
 
 ## Ethical Data Science MSc Course 2020-2021
 
