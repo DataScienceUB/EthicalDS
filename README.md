@@ -37,14 +37,14 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
 
 
 ## Syllabus
-+ Ethical Foundations | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS1%20Intro.pdf) 
++ Ethical Foundations | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS1%20Foundations.pdf) 
   + Podcast: [Ethical problems with recommender systems](https://anchor.fm/towardsdatascience/episodes/68--Silvia-Milano---Ethical-problems-with-recommender-systems-epi24v/a-a4fdo1p) by Silvia Milano
   + Podcast: [On morality and rationality](https://www.preposterousuniverse.com/podcast/2019/07/01/episode-53-solo-on-morality-and-rationality/) by Sean Carroll
-+ Bias and Fairness  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS1%20Foundations.pdf)
-+ Transparency and Explainability  | Slides
++ Bias and Fairness  | [Slides]()
++ Transparency and Explainability  | [Slides]()
   + Book: [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by C.Molnar.
-+ Disinformation  | Slides
-+ Privacy and Surveillance | Slides
++ Disinformation  | [Slides]()
++ Privacy and Surveillance | [Slides]()
 + Ethics and data protection in a data driven society 
 + Data governance 
 + Data protection impact assessment methodologies: data cycle and risk assessment
