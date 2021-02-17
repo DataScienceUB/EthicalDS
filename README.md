@@ -38,7 +38,7 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
 
 ## Syllabus
 + Ethical Foundations | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS1%20Intro.pdf)
-+ Bias and Fairness  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS1%20Intro.pdf)
++ Bias and Fairness  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS1%20Foundations.pdf)
 + Transparency and Explainability  | Slides
 + Disinformation  | Slides
 + Privacy and Surveillance | Slides
