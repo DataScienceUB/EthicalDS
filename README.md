@@ -41,6 +41,7 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
   + Podcast: [Ethical problems with recommender systems](https://anchor.fm/towardsdatascience/episodes/68--Silvia-Milano---Ethical-problems-with-recommender-systems-epi24v/a-a4fdo1p) by Silvia Milano
   + Podcast: [On morality and rationality](https://www.preposterousuniverse.com/podcast/2019/07/01/episode-53-solo-on-morality-and-rationality/) by Sean Carroll
 + Bias and Fairness  | [Slides]()
+  + Video: [Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI](https://youtu.be/p8MCaj68Pns) by S.Wachter. 
 + Transparency and Explainability  | [Slides]()
   + Book: [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by C.Molnar.
 + Disinformation  | [Slides]()
