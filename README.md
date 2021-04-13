@@ -44,7 +44,7 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
   + Video: [Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI](https://youtu.be/p8MCaj68Pns) by S.Wachter. 
   + Podcast: [Responsible AI at Facebook](https://anchor.fm/towardsdatascience/episodes/67--Joaquin-Quionero-Candela---Responsible-AI-at-Facebook-ep7qjq/a-a4dbkvb) by Silvia Milano
   + Course: [A brief introduction to Causal Inference](https://youtu.be/DXBPtpBhGqo)
-  + Video [Models for Algorithmic Fairness](https://youtu.be/NtJOHR4FqFI) by R.Silva.
+  + Video: [Models for Algorithmic Fairness](https://youtu.be/NtJOHR4FqFI) by R.Silva.
 + Transparency and Explainability  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS3%20Explainability.pdf)
   + Book: [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by C.Molnar.
   + Video: [Richard Feynman about “explanations” and “why questions”.](https://www.youtube.com/watch?v=Q1lL-hXO27Q)
