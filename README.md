@@ -40,9 +40,10 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
 + Ethical Foundations | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS1%20Foundations.pdf) 
   + Podcast: [Ethical problems with recommender systems](https://anchor.fm/towardsdatascience/episodes/68--Silvia-Milano---Ethical-problems-with-recommender-systems-epi24v/a-a4fdo1p) by Silvia Milano
   + Podcast: [On morality and rationality](https://www.preposterousuniverse.com/podcast/2019/07/01/episode-53-solo-on-morality-and-rationality/) by Sean Carroll
-+ Bias and Fairness  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS2%20Bias%20and%20Fairness.pdf)
++ Bias and Fairness  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS2%20Bias%20and%20Fairness%20I%20.pdf) | [Slides II](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS2%20Bias%20and%20Fairness%20II.pdf)
   + Video: [Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI](https://youtu.be/p8MCaj68Pns) by S.Wachter. 
-+ Transparency and Explainability  | [Slides]()
+  + Podcast: [Responsible AI at Facebook](https://anchor.fm/towardsdatascience/episodes/67--Joaquin-Quionero-Candela---Responsible-AI-at-Facebook-ep7qjq/a-a4dbkvb) by Silvia Milano
++ Transparency and Explainability  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS3%20Explainability.pdf)
   + Book: [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by C.Molnar.
 + Disinformation  | [Slides]()
 + Privacy and Surveillance | [Slides]()
