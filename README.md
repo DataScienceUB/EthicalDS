@@ -45,6 +45,7 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
   + Podcast: [Responsible AI at Facebook](https://anchor.fm/towardsdatascience/episodes/67--Joaquin-Quionero-Candela---Responsible-AI-at-Facebook-ep7qjq/a-a4dbkvb) by Silvia Milano
 + Transparency and Explainability  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS3%20Explainability.pdf)
   + Book: [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by C.Molnar.
+  + Video: [Richard Feynman about “explanations” and “why questions”.](https://www.youtube.com/watch?v=Q1lL-hXO27Q)
 + Disinformation  | [Slides]()
 + Privacy and Surveillance | [Slides]()
 + Ethics and data protection in a data driven society 
