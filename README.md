@@ -48,7 +48,7 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
 + Transparency and Explainability  | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS3%20Explainability.pdf)
   + Book: [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by C.Molnar.
   + Video: [Richard Feynman about “explanations” and “why questions”.](https://www.youtube.com/watch?v=Q1lL-hXO27Q)
-+ Privacy and Data Agency | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS4%20Privacy.pdf
++ Privacy and Data Agency | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS4%20Privacy.pdf)
   + Reading: 
     + Julie E. Cohen, [What is privacy for](https://cdn.harvardlawreview.org/wp-content/uploads/pdfs/vol126_cohen.pdf), Harvard Law Review, Vol. 126, 2013.
     + C.Véliz, [Privacy Is Power: Why and How You Should Take Back Control of Your Data](https://www.penguin.co.uk/books/112/1120394/privacy-is-power/9780552177719.html), Transworld Ed., 2020.
