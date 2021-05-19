@@ -53,7 +53,9 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
     + Julie E. Cohen, [What is privacy for](https://cdn.harvardlawreview.org/wp-content/uploads/pdfs/vol126_cohen.pdf), Harvard Law Review, Vol. 126, 2013.
     + C.Véliz, [Privacy Is Power: Why and How You Should Take Back Control of Your Data](https://www.penguin.co.uk/books/112/1120394/privacy-is-power/9780552177719.html), Transworld Ed., 2020.
     + E. Decristofaro. [An Overview of Privacy in Machine Learning](https://arxiv.org/abs/2005.08679). https://arxiv.org/abs/2005.08679 
-  + Watch: Carissa Véliz on "Why privacy matters more than ever". [Video](https://youtu.be/8yU8fb3e5dE)
+  + Video: Carissa Véliz on "Why privacy matters more than ever". [Video](https://youtu.be/8yU8fb3e5dE)
 + Information Disorder | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS5%20Information%20Disorder.pdf)
+  + [How Facebook got addicted to spreading misinformation](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/), by K.Hao.
+  + [Far-right news sources on Facebook more engaging](https://medium.com/cybersecurity-for-democracy/far-right-news-sources-on-facebook-more-engaging-e04a01efae90), by Laura Edelson, Minh-Kha Nguyen, Ian Goldstein, Oana Goga, Tobias Lauinger, and Damon McCoy.
 + AI and the Alignment Problem | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS6%20Alignment%20Problem.pdf)
-  + Watch: "Is Superintelligence Impossible?" [video](https://www.edge.org/conversation/john_brockman-is-superintelligence-impossible)
+  + Video: "Is Superintelligence Impossible?" [video](https://www.edge.org/conversation/john_brockman-is-superintelligence-impossible)
