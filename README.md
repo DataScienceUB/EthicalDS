@@ -59,4 +59,4 @@ Writing assignments evaluation will emphasize correctness in your writing and a 
     + [How Facebook got addicted to spreading misinformation](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/), by K.Hao.
     + [Far-right news sources on Facebook more engaging](https://medium.com/cybersecurity-for-democracy/far-right-news-sources-on-facebook-more-engaging-e04a01efae90), by Laura Edelson, Minh-Kha Nguyen, Ian Goldstein, Oana Goga, Tobias Lauinger, and Damon McCoy.
 + AI and the Alignment Problem | [Slides](https://raw.githubusercontent.com/DataScienceUB/EthicalDS/main/EDS6%20Alignment%20Problem.pdf)
-  + Video: "Is Superintelligence Impossible?" [video](https://www.edge.org/conversation/john_brockman-is-superintelligence-impossible)
+  + Video: ["Is Superintelligence Impossible?"](https://www.edge.org/conversation/john_brockman-is-superintelligence-impossible)
